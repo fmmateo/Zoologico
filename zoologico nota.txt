@@ -1,0 +1,38 @@
+ZOOLOGICO
+
+1- crear 3 carpetas para clasificar los tipos de animales(Carniboros, Hervivoros & Acuaticos)
+
+	1- ingrasar en el menu (agregar animales al zoologico)
+
+	2- Seleccionar Cual es la clase de animal a agregar
+	
+	3- nos mostrara una lista con las especies de animales agregados 
+		ejemplo 
+
+		1-leones
+		2-perros	
+		3-agregar nueva especie
+	
+	4- crearemos un logs tipo de animal (ejemplo perro, leon) dentro de carniboros si no existe 
+	
+	
+	
+	5- luego nos pedira que ingresemos los siguientes datos
+		
+		-nombre del animal
+		-rasa del animal
+		-sexo del animal
+		-edad del animal
+		
+	6- guardar el animal en el log de clase perteneciante 
+
+
+
+2- Ver animales Elejir La Clase de animal que queremos ver 
+
+	1- trar un listado de animales segun la clase con la cantidad que tenemos y un listado de nombres
+		
+	2- Elegimos un nombre del animal segun el numero que tenga en el menu 
+
+3- ELIMINAR ANIMAL
+

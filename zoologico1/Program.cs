@@ -10,6 +10,8 @@ namespace zoologico1
     {
         static void Main(string[] args)
         {
+            Utilidades.CrearCarpetas();
+
             while (true)
             {
                 Console.Clear();
@@ -23,7 +25,8 @@ namespace zoologico1
                         menu.MenuClasesAnimales();
                         break;
                     case "2":
-
+                        Console.Clear();
+                        menu.MenuClasesAnimales();
                         break;
 
                     default:
@@ -33,9 +36,8 @@ namespace zoologico1
                 Console.ReadKey();
             }
         }
-              
 
-                
+       
 
 
             }

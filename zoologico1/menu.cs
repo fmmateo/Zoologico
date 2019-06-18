@@ -11,6 +11,10 @@ namespace zoologico1
         
         public static void MenuClasesAnimales()
         {
+            Console.WriteLine("BIENVENIDO AL ZOOLOGICO");
+            Console.WriteLine("");
+            Console.WriteLine("SELECCIONE SEGUN EL NUMERO DESEADO:");
+            Console.WriteLine("");
             Console.WriteLine("1) Herbivoro");
             Console.WriteLine("2) Carnivoros");
             Console.WriteLine("3) Acuaticos");
@@ -21,13 +25,13 @@ namespace zoologico1
         public static void MenuPrincipal()
         {
           
-            Console.WriteLine("bienvenido al zoologico felix");
+            Console.WriteLine("BIENVENIDO AL ZOOLOGICO ");
             Console.WriteLine("");
-            Console.WriteLine("Selecciona que quieres hacer segun el numero");
+            Console.WriteLine("SELECCIONE SEGUN EL NUMERO DESEADO:");
             Console.WriteLine("");
-            Console.WriteLine("1) ver animales del zoologico");
+            Console.WriteLine("1) Ver Animales ");
             Console.WriteLine("");
-            Console.WriteLine("2) administrar zoologico");
+            Console.WriteLine("2) Agregar Animales");
             Console.WriteLine("");
            
 
