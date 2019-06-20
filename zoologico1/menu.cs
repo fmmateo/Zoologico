@@ -18,6 +18,7 @@ namespace zoologico1
             Console.WriteLine("1) Herbivoro");
             Console.WriteLine("2) Carnivoros");
             Console.WriteLine("3) Acuaticos");
+            Console.WriteLine(" ");
        
 
         }
